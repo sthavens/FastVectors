@@ -1,0 +1,4 @@
+[
+  "FastVectors/Test/test_initialize.py::test_pytest",
+  "FastVectors/Test/test_initialize.py::test_canInitializeFastVectors"
+]
